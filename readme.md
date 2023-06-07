@@ -22,7 +22,7 @@ You can see a live demo of the project [here](https://poulsen1114.github.io/navi
 
 To install and run this project locally, follow these steps:
 
-1. Clone the repository: `git clone <https://github.com/poulsen1114/navigation-nation>`
+1. Clone the repository: `git clone <https://github.com/poulsen1114/navigation-nation.git>`
 2. Open the project folder: `cd <navigation-nation>`
 3. Open the `index.html` file in a web browser.
 
